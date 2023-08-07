@@ -1,0 +1,8 @@
+1. Criar um projeto Node.js com o Typescript configurado;
+2. Criar classes para representar as entidades necessárias;
+a. Cada classe deve estar em um arquivo separado.
+3. Usar todos os pilares da POO pelo menos uma vez;
+a.Herança b.Encapsulamento c.Polimorfismo d.Abstração(check)
+4. Estabelecer relacionamentos do tipo composição entre as classes;
+5. Armazenar os dados em um banco de dados em memória (listas).
+6. Para testes, criar pelo menos 3 usuários, 3 tweets, 3 likes e 3 replies.
